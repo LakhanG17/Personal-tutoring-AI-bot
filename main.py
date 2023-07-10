@@ -6,7 +6,8 @@ from bardapi import Bard
 import json
 
 # Reading the JSON file to fetch credentials
-token = 'Ygh7Tx8C6QDc246_lEHorJQ0U4xcc3Jz37FJEMo8SD83yIduDb1_kZEcK_uq-mm1Mq4ofw.'
+token = '******' #you can use your own code
+
 
 
 # Funtion that generates and returns the response
